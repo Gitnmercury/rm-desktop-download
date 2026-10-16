@@ -20,6 +20,12 @@ Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS
 Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 
 <p align="center">
+  <img src="captures/00-installeur.png" alt="Assistant d'installation de rM Desktop : écran de bienvenue" width="560">
+</p>
+
+<p align="center"><em>L'assistant d'installation, sans droit administrateur.</em></p>
+
+<p align="center">
   <img src="captures/01-chargement.png" alt="Écran de chargement de rM Desktop" width="330">
   <img src="captures/02-detection.png" alt="La reMarkable 2 est détectée au démarrage" width="330">
 </p>
@@ -32,12 +38,6 @@ Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 
 <p align="center"><em>Après une minute sans activité, l'application se met en veille avec un petit cœur qui respire.<br>
 Un mouvement de souris la réveille.</em></p>
-
-<p align="center">
-  <img src="captures/00-installeur.png" alt="Assistant d'installation de rM Desktop : écran de bienvenue" width="560">
-</p>
-
-<p align="center"><em>L'assistant d'installation, sans droit administrateur.</em></p>
 
 ## Fonctions
 
