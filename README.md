@@ -12,6 +12,8 @@ Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS
 - Parcourir la bibliothèque de la tablette, rechercher, prévisualiser.
 - Importer PDF, EPUB, Word et images (conversion en PDF et OCR à la demande), par glisser-déposer.
 - Exporter, renommer, épingler, supprimer, créer des dossiers.
+- Lire les premières pages d'un livre EPUB, sans autre logiciel.
+- Ajouter ses propres modèles de page (agenda, quadrillage…) sur la tablette.
 - Sauvegarde chiffrée de la tablette.
 - Thèmes clair, sombre et automatique.
 
