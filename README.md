@@ -39,6 +39,13 @@ Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 <p align="center"><em>Après une minute sans activité, l'application se met en veille avec un petit cœur qui respire.<br>
 Un mouvement de souris la réveille.</em></p>
 
+<p align="center">
+  <img src="captures/05-tablette-deconnectee.png" alt="rM Desktop quand la tablette est débranchée : « Tablette déconnectée, branche la reMarkable avec le câble USB-C »" width="760">
+</p>
+
+<p align="center"><em>Quand la tablette est débranchée, l'application le dit gentiment.<br>
+La fenêtre se réactive toute seule dès que le câble est rebranché.</em></p>
+
 ## Fonctions
 
 - Parcourir la bibliothèque de la tablette, rechercher, prévisualiser.
