@@ -1,6 +1,6 @@
 # rM Desktop
 
-Gérez la bibliothèque de votre tablette reMarkable 1 ou 2 depuis Windows, par USB.
+Gérez la bibliothèque de votre tablette reMarkable 1 ou 2 depuis Windows ou Linux, par USB.
 Aucun compte, aucun cloud, aucune télémétrie : tout reste sur votre PC et votre tablette.
 
 **[Télécharger la dernière version](https://github.com/Gitnmercury/rm-desktop-download/releases/latest)**
@@ -19,12 +19,13 @@ Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS
 
 ## Prérequis
 
-- Windows 10 (version 2004 ou plus) ou Windows 11, avec OpenSSH (installé par défaut).
+- Windows 10 (version 2004 ou plus) ou Windows 11, avec OpenSSH (installé par défaut) ;
+  ou Linux avec Python 3.10 ou plus (Ubuntu 22.04, Debian 12 ou plus récent).
 - Une reMarkable 1 ou 2, branchée en USB.
 - Le mot de passe de la tablette (Réglages > Aide > À propos > Copyrights et licences), saisi une
   seule fois au premier lancement.
 
-## Installation
+## Installation sous Windows
 
 1. Téléchargez `install_remarkable.exe` dans la [dernière version](https://github.com/Gitnmercury/rm-desktop-download/releases/latest).
 2. Lancez-le et suivez l'assistant. Aucun droit administrateur n'est demandé, rien n'est téléchargé.
@@ -36,13 +37,31 @@ empreinte SHA-256, indiquée dans chaque version.
 
 Désinstallation : menu Démarrer > rM Desktop > Désinstaller, ou Paramètres > Applications.
 
+## Installation sous Linux (Ubuntu, Debian, Linux Mint…)
+
+1. Téléchargez `rm-desktop_<version>_all.deb` dans la [dernière version](https://github.com/Gitnmercury/rm-desktop-download/releases/latest).
+2. Dans un terminal, depuis le dossier du téléchargement :
+
+   ```
+   sudo apt install ./rm-desktop_*_all.deb
+   ```
+
+   `apt` installe aussi ce qui manque (Python, Tkinter, OpenSSH).
+3. Lancez « rM Desktop » depuis le menu des applications, ou `rm-desktop` dans un terminal.
+
+Fonctions en option : aperçu des pages PDF (`sudo apt install python3-fitz`), OCR
+(`tesseract-ocr tesseract-ocr-fra`), conversion Word (`libreoffice-writer`).
+
+Désinstallation : `sudo apt remove rm-desktop`.
+
 ## Licence et confidentialité
 
 Libre d'utilisation, sous réserve, pour les particuliers à titre privé. Ce logiciel ne peut être vendu,
 loué, intégré à une offre payante ni redistribué en dehors de cette page sans accord écrit.
 Voir [LICENSE.md](LICENSE.md), [PRIVACY.md](PRIVACY.md) et [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
-Le code source n'est pas publié.
+Le code source n'est pas publié. Le paquet Linux contient la version Python de l'application sous
+forme lisible : la même licence s'y applique.
 
 ## Auteur et contact
 
