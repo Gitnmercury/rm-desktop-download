@@ -27,7 +27,7 @@ Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 <p align="center"><em>Au démarrage : chargement, puis détection de la tablette branchée en USB.</em></p>
 
 <p align="center">
-  <img src="captures/00-installeur.png" alt="Assistant d'installation de rM Desktop" width="560">
+  <img src="captures/00-installeur.png" alt="Assistant d'installation de rM Desktop : écran de bienvenue" width="560">
 </p>
 
 <p align="center"><em>L'assistant d'installation, sans droit administrateur.</em></p>
