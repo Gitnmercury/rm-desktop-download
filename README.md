@@ -7,6 +7,31 @@ Aucun compte, aucun cloud, aucune télémétrie : tout reste sur votre PC et vot
 
 Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS.
 
+## Aperçu
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="captures/03-bibliotheque-sombre.png">
+    <img src="captures/03-bibliotheque-clair.png" alt="Bibliothèque d'une reMarkable 2 dans rM Desktop : dossiers, recherche, import, export et aperçu" width="860">
+  </picture>
+</p>
+
+<p align="center"><em>La bibliothèque de la tablette, en thème clair ou sombre selon votre réglage GitHub.<br>
+Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
+
+<p align="center">
+  <img src="captures/01-chargement.png" alt="Écran de chargement de rM Desktop" width="330">
+  <img src="captures/02-detection.png" alt="La reMarkable 2 est détectée au démarrage" width="330">
+</p>
+
+<p align="center"><em>Au démarrage : chargement, puis détection de la tablette branchée en USB.</em></p>
+
+<p align="center">
+  <img src="captures/00-installeur.png" alt="Assistant d'installation de rM Desktop" width="560">
+</p>
+
+<p align="center"><em>L'assistant d'installation, sans droit administrateur.</em></p>
+
 ## Fonctions
 
 - Parcourir la bibliothèque de la tablette, rechercher, prévisualiser.
