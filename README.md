@@ -27,6 +27,13 @@ Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 <p align="center"><em>Au démarrage : chargement, puis détection de la tablette branchée en USB.</em></p>
 
 <p align="center">
+  <img src="captures/04-mode-veille.png" alt="Mode veille de rM Desktop : une tablette avec un petit cœur et le message « Je fais une petite pause »" width="760">
+</p>
+
+<p align="center"><em>Après une minute sans activité, l'application se met en veille avec un petit cœur qui respire.<br>
+Un mouvement de souris la réveille.</em></p>
+
+<p align="center">
   <img src="captures/00-installeur.png" alt="Assistant d'installation de rM Desktop : écran de bienvenue" width="560">
 </p>
 
